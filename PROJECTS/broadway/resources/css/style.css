@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+  color:white;
+}
+a{
+  color: white;
+  font-size: 18px;
+  font-family: Helvetica;
+}
+p{
+  color: black;
+  font-size: 14px;
+}
+]
+h1{
+  font-family: Helvetica;
+  font-size: 35px;
+  font-weight: bold;
+}
+h2{
+  font-size: 32px;
+  color: white;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+  color: black;
+  font-weight: bold;
+}
+h4{
+  font-size: 14px;
+  color: black;
+}
+#back{
+  background-image: url("/Users/johnwiencek/PROJECTS/broadway/resources/images/the-flatiron-building.png");
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  font-family: Helvetica;
+}
+#bottom{
+  background-image: url("/Users/johnwiencek/PROJECTS/broadway/resources/images/the-flatiron-building.png");
+  font-size:23px;
+  font-weight: bold;
+  text-align: center;
+  background-size:;
+  background-repeat: no-repeat;
+  font-family: Helvetica;
+}
